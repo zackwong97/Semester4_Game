@@ -30,4 +30,4 @@ Build/*/**
 !Build/**/*.ico
 
 # Ignores the Content/StarterContent directory
-Content/StarterContent/
+Content/StarterContent/**
