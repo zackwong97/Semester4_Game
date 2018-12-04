@@ -3,7 +3,6 @@
 /DerivedDataCache/
 /Intermediate/
 /Saved/
-/Build/
 
 # Visual Studio 2015 user specific files
 .vscode
@@ -18,6 +17,17 @@
 *.suo
 *.xcodeproj
 *.xcworkspace
+
+# Builds
+Build/*
+
+# Whitelist PakBlacklist-<BuildConfiguration>.txt files
+!Build/*/
+Build/*/**
+!Build/*/PakBlacklist*.txt
+
+# Don't ignore icon files in Build
+!Build/**/*.ico
 
 # Ignores the Content/StarterContent directory
 Content/StarterContent/
