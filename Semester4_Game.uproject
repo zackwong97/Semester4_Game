@@ -3,6 +3,23 @@
 	"EngineAssociation": "4.20",
 	"Category": "",
 	"Description": "",
+	"Plugins": [
+		{
+			"Name": "OnlineSubsystemIOS",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"IOS",
+				"TVOS"
+			]
+		},
+		{
+			"Name": "OnlineSubsystemGooglePlay",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Android"
+			]
+		}
+	],
 	"TargetPlatforms": [
 		"WindowsNoEditor"
 	]
