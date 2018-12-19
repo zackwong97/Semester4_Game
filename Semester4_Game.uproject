@@ -3,6 +3,13 @@
 	"EngineAssociation": "4.20",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "Semester4_Game",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
 	"Plugins": [
 		{
 			"Name": "OnlineSubsystemIOS",

@@ -24,7 +24,7 @@
 /wd4838
 /we4668
 /I .
-/I "C:\Users\morde\Documents\Unreal Projects\PluginExpProject\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\Private"
+/I "D:\zackwong\Documents\Unreal Projects\Semester4_Game\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\Private"
 /I ..\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\UE4Editor\Inc\OnlineSubsystem
 /I ..\Plugins\Online\OnlineSubsystem
 /I ..\Plugins\Online\OnlineSubsystem\Source
@@ -78,11 +78,11 @@
 /I ..\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Classes
 /I ..\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils\Public
 /I ..\Plugins\Online\OnlineSubsystemUtils\Source\OnlineSubsystemUtils
-/I "C:\Users\morde\Documents\Unreal Projects\PluginExpProject\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSteamSessions"
-/I "C:\Users\morde\Documents\Unreal Projects\PluginExpProject\Plugins\AdvancedSessions\AdvancedSteamSessions\Source"
+/I "D:\zackwong\Documents\Unreal Projects\Semester4_Game\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSteamSessions"
+/I "D:\zackwong\Documents\Unreal Projects\Semester4_Game\Plugins\AdvancedSessions\AdvancedSteamSessions\Source"
 /I ..\Plugins\Online\OnlineSubsystemSteam\Source\Private
-/I "C:\Users\morde\Documents\Unreal Projects\PluginExpProject\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes"
-/I "C:\Users\morde\Documents\Unreal Projects\PluginExpProject\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions"
+/I "D:\zackwong\Documents\Unreal Projects\Semester4_Game\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes"
+/I "D:\zackwong\Documents\Unreal Projects\Semester4_Game\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions"
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\CoreUObject
 /I Runtime\CoreUObject\Public
 /I Runtime\CoreUObject
@@ -423,10 +423,10 @@
 /I ThirdParty
 /I ThirdParty\libSampleRate\Public
 /I ThirdParty\libSampleRate
-/I "C:\Users\morde\Documents\Unreal Projects\PluginExpProject\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSessions"
-/I "C:\Users\morde\Documents\Unreal Projects\PluginExpProject\Plugins\AdvancedSessions\AdvancedSessions\Source"
-/I "C:\Users\morde\Documents\Unreal Projects\PluginExpProject\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes"
-/I "C:\Users\morde\Documents\Unreal Projects\PluginExpProject\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions"
+/I "D:\zackwong\Documents\Unreal Projects\Semester4_Game\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSessions"
+/I "D:\zackwong\Documents\Unreal Projects\Semester4_Game\Plugins\AdvancedSessions\AdvancedSessions\Source"
+/I "D:\zackwong\Documents\Unreal Projects\Semester4_Game\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes"
+/I "D:\zackwong\Documents\Unreal Projects\Semester4_Game\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions"
 /I ThirdParty\Steamworks\Steamv139\sdk\public
 /I ..\Plugins\Online\OnlineSubsystemSteam\Intermediate\Build\Win64\UE4Editor\Inc\OnlineSubsystemSteam
 /I ..\Plugins\Online\OnlineSubsystemSteam
@@ -434,17 +434,16 @@
 /I ..\Plugins\Online\OnlineSubsystemSteam\Source\Public
 /I ..\Plugins\Online\OnlineSubsystemSteam\Source
 /I "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.14.26428\INCLUDE"
-/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17134.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17134.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17134.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17134.0\winrt"
-/FI"C:\Users\morde\Documents\Unreal Projects\PluginExpProject\Intermediate\Build\Win64\VRExpPluginExampleEditor\Development\Engine\SharedPCH.Engine.h"
-/Yu"C:\Users\morde\Documents\Unreal Projects\PluginExpProject\Intermediate\Build\Win64\VRExpPluginExampleEditor\Development\Engine\SharedPCH.Engine.h"
-/Fp"C:\Users\morde\Documents\Unreal Projects\PluginExpProject\Intermediate\Build\Win64\VRExpPluginExampleEditor\Development\Engine\SharedPCH.Engine.h.pch"
-"C:\Users\morde\Documents\Unreal Projects\PluginExpProject\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp"
-/FI"C:\Users\morde\Documents\Unreal Projects\PluginExpProject\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Definitions.AdvancedSteamSessions.h"
-/Fo"C:\Users\morde\Documents\Unreal Projects\PluginExpProject\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp.obj"
+/I "D:\Windows Kits\10\include\10.0.17134.0\ucrt"
+/I "D:\Windows Kits\10\include\10.0.17134.0\shared"
+/I "D:\Windows Kits\10\include\10.0.17134.0\um"
+/I "D:\Windows Kits\10\include\10.0.17134.0\winrt"
+/FI"D:\zackwong\Documents\Unreal Projects\Semester4_Game\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h"
+/Yu"D:\zackwong\Documents\Unreal Projects\Semester4_Game\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h"
+/Fp"D:\zackwong\Documents\Unreal Projects\Semester4_Game\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.pch"
+"D:\zackwong\Documents\Unreal Projects\Semester4_Game\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp"
+/FI"D:\zackwong\Documents\Unreal Projects\Semester4_Game\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Definitions.AdvancedSteamSessions.h"
+/Fo"D:\zackwong\Documents\Unreal Projects\Semester4_Game\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp.obj"
 /TP
 /GR-
 /W4
