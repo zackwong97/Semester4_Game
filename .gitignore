@@ -4,8 +4,8 @@
 /Intermediate/
 /Saved/
 
-Plugins/*/Binaries/*
-Plugins/*/Intermediate/*
+Plugins/**/Binaries/
+Plugins/**/Intermediate/
 
 # Visual Studio 2015 user specific files
 .vscode
