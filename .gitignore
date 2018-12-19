@@ -4,6 +4,9 @@
 /Intermediate/
 /Saved/
 
+Plugins/*/Binaries/*
+Plugins/*/Intermediate/*
+
 # Visual Studio 2015 user specific files
 .vscode
 .vs
@@ -13,6 +16,7 @@
 *.opensdf
 *.opendb
 *.sdf
+*.sln
 *.suo
 *.xcodeproj
 *.xcworkspace
