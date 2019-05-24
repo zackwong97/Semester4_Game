@@ -1,8 +1,8 @@
 using UnrealBuildTool;
 
-public class Semester4_Game : ModuleRules
+public class Little_Bloom : ModuleRules
 {
-	public Semester4_Game(ReadOnlyTargetRules Target) : base(Target)
+	public Little_Bloom(ReadOnlyTargetRules Target) : base(Target)
 	{
 		PrivateDependencyModuleNames.Add("Core");
 		PrivateDependencyModuleNames.Add("Core");

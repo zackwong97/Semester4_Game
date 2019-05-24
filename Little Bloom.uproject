@@ -5,7 +5,7 @@
 	"Description": "",
 	"Modules": [
 		{
-			"Name": "Semester4_Game",
+			"Name": "Little_Bloom",
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
 		}
